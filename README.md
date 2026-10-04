@@ -4,7 +4,7 @@
 
 > 数据文件：`registry/all.json`（上架新插件见 `docs/SUBMIT.md`）。
 
-**7497** 个插件 · **6659** 个可一键安装
+**7498** 个插件 · **6660** 个可一键安装
 
 安装市场：
 
@@ -26,7 +26,7 @@ dsh web   # 重启后侧栏 Settings 旁常驻「插件市场」按钮
 - [安全与权限](#auth) (387)
 - [技能与扩展](#skills) (167)
 - [市场与发现](#market) (500)
-- [趣味与个性](#fun) (96)
+- [趣味与个性](#fun) (97)
 - [其他](#other) (696)
 
 ## 界面与主题
@@ -6859,6 +6859,7 @@ dsh web   # 重启后侧栏 Settings 旁常驻「插件市场」按钮
 - [dsh-casual-conversation](https://github.com/QiJi-2001/dsh-casual-conversation)  ⭐ 0 ⬇ 0 · 未验证 · 手动安装
 - [whale-girl-desktop](https://github.com/DeeJ6126/whale-girl-desktop) Desktop companion pet for DeepSeek Harness (whale-girl), driven by the /whale-girl externa ⭐ 0 ⬇ 0 · 未验证 · 手动安装
 - [dsh-pet](https://github.com/npc-dao/dsh-pet) DSH Web pet with a bundled default and Codex-compatible imports ⭐ 0 ⬇ 0 · 未验证 · 手动安装
+- [大肥鱼](https://github.com/AiChiJiMaoRen/dsh-dafeiyu-chan) 鲸鱼娘陪伴看板娘：九分娇一分傲人设，桌宠气泡会话 + 记忆 + 点子 + 新建会话护航 ⭐ 0 ⬇ 0 · v0.1.0
 
 ## 其他
 
